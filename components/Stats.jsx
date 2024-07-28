@@ -9,7 +9,7 @@ const stats = [
         
     },
     {
-        num: 6,
+        num: 7,
         text: "Projects Completed",
         
     },
@@ -33,7 +33,7 @@ const Stats = () => {
                 <CountUp 
                 end={item.num}
                 duration = {5}
-                delay = {1}
+                delay = {2.5}
                 className="text-4xl xl:text-6xl font-extrabold"
                 />
             <p className= {`${
