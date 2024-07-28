@@ -20,7 +20,7 @@ export default function Home() {
               I'm currently working towards my Bachelor of Science degree, which I expect to complete in Spring 2027.
             </p>
 
-            <div className= "flex flex-col xl:flex-row items-center gap-8 text-gray-300">
+            <div className= "flex flex-col xl:flex-row items-center gap-8 text-gray-500">
               <Button 
               variant="outline" 
               size="lg" 
